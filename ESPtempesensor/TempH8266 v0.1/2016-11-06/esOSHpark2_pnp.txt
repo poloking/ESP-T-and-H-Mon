@@ -1,0 +1,50 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=esOSHpark2
+*Date=10:57:11
+*CreatedBy=Fritzing 0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;;10.7665;-19.0758;0;Bottom;Via17
+2;;;16.7674;-30.6272;0;Bottom;Via8
+3;;;12.7065;-19.1086;0;Bottom;Via16
+4;;;20.7165;-30.711;0;Bottom;Via6
+5;adjustable;sot223;26.9014;-10.7152;0;Top;AMS1117
+6;4.7k;0805 [SMD];21.6308;-35.3666;0;Top;4k7
+7;4.7k;0805 [SMD];10.1368;-8.52067;-90;Top;4k7
+8;;;2.16306;-13.7269;-90;Top;TXT1
+9;;;18.6679;-30.7048;0;Bottom;Via7
+10;;;22.6957;-30.7305;0;Bottom;Via5
+11;4.7k;0805 [SMD];9.58536;-27.2557;90;Bottom;4k7
+12;;tactile_switch_smd-2;15.2417;-3.10507;-90;Top;S2
+13;;THT;18.7455;-14.1036;90;Bottom;G-R-T
+14;;tactile_switch_smd-2;20.5531;-2.99782;-90;Top;S3
+15;;;8.66366;-30.5868;0;Bottom;Via10
+16;4.7k;0805 [SMD];6.44141;-15.2646;0;Bottom;4k7
+17;;;18.092;-24.8925;90;Top;ESP8266
+18;0.47mF;100 mil [THT, electrolytic];20.3042;-8.99766;-90;Bottom;470 uF
+19;;;22.3627;-18.9531;0;Bottom;Via13
+20;;;12.7325;-30.632;0;Bottom;Via4
+21;;;22.2116;-3.94373;0;Bottom;Via2
+22;;;4.54321;-24.8583;0;Bottom;DHT11
+23;;;14.6843;-30.654;0;Bottom;Via9
+24;;;10.8246;-30.6771;0;Bottom;Via1
+25;;;20.7148;-18.8754;0;Bottom;Via11
+26;;;18.7528;-18.9426;0;Bottom;Via12
+27;;cap-pth-small-kit;16.0553;-9.00839;-90;Bottom;C1
+28;;;4.89819;-5.30662;90;Bottom;DS1
+29;;;16.6726;-18.8738;0;Bottom;Via14
+30;;THT;27.3304;-3.05322;-90;Bottom;G-L
+31;;;15.2407;-35.7715;0;Bottom;TXT2
+32;4.7k;0805 [SMD];26.2187;-33.95;0;Top;4k7
+33;;THT;26.6364;-10.7576;90;Bottom;G-O-L
+34;;;14.7153;-18.9948;0;Bottom;Via15
+35;;;21.5402;-24.3341;0;Bottom;IMG2
